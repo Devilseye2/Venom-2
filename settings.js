@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
-global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Africa, Nigeria, Lagos"
+global.ownernomer = "254718382875"
+global.ownername = "`🧞‍♂️ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺"
+global.ytname = "NICK"
+global.socialm = "GitHub: Devilseye2"
+global.location = "Africa, Kenya, Nairobi"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber '254718382875,254113419479,254724036334'  //creator number
+global.ownername = 'MANOS' //owner name
+global.botname = '🕷Venom-7🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = 'fucked By'
+global.author = 'Nick_spider\n\nContact: +254718382875'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.themeemoji = '🕷️'
+global.wm = "NICj Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://whatsapp.com/channel/imvalidRru3ADTOEKPCPom0L'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
